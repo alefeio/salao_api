@@ -1,0 +1,15 @@
+{
+  "nome":"",
+  "nascimento": "",
+  "codigo":"",
+  "senha":"",
+  "contatos":{
+    "email":"",
+    "telefone":"",
+    "celular":"",
+    "facebook":"",
+  },
+  "endereco":{
+
+  }
+}
